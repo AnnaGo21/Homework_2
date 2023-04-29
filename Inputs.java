@@ -3,6 +3,7 @@ package Homework;
 import java.util.Scanner;
 
 public class Inputs {
+    
     final static byte MONTHS_IN_YEAR = 12;
     final static byte PERCENT = 100;
 
